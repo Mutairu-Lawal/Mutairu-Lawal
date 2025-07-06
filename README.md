@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mutairu Lawal
 =====================================================================================================================================
 
-Frontend Developer
+Frontend & Backend Developer
 ------------------
 
-I’m a highly skilled Frontend Developer passionate about building fast, responsive, and user-friendly web applications. With expertise in HTML, CSS, JavaScript, React, and modern UI frameworks, I transform ideas into high-performing digital solutions.
+I’m a highly skilled Frontend & Backend Developer passionate about building fast, responsive, and user-friendly web applications. With hands-on experience in HTML, CSS, JavaScript, TypeScript, React, Next.js, Django, and REST APIs, I transform ideas into scalable, secure, and high-performing digital solutions. I’m also exploring FastAPI to expand my backend capabilities.
 
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [https://mutairu-lawal.netlify.app/](http://mutairu-lawal.netlify.app/)
