@@ -9,7 +9,7 @@ I’m a highly skilled Frontend & Backend Developer passionate about building fa
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [https://mutairu-lawal.netlify.app/](http://mutairu-lawal.netlify.app/)
 * ✉️  You can contact me at [lawalmuktair@gmail.com](mailto:lawalmuktair@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning mySql
 * 🤝  I'm open to collaborating on innovative and impactful frontend projects, whether it's building modern web applications, optimizing UI/UX, or contributing to open-source projects. If you have an idea that needs a clean, responsive, and scalable interface, let’s work together
 * ⚡  I'm always eager to learn new technologies, improve my skills, and take on exciting challenges. If you have a project, an idea, or just want to connect, feel free to reach out!
 
