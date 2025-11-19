@@ -4,8 +4,8 @@
 
 I build performant web applications that solve real-world problems—from responsive frontends to scalable backends and optimized databases. With expertise spanning **React, Next.js, TailwindCSS, FastAPI, Django, and PostgreSQL**, I deliver clean, maintainable solutions designed for speed, security, and impact.
 
-* 🖥️  Portfolio: [mutairu-lawal.netlify.app](http://mutairu-lawal.netlify.app/)
-* ✉️  Email: [lawalmuktair@gmail.com](mailto:lawalmuktair@gmail.com)
+* 🖥️  Portfolio: [mutairu-lawal](http://mutairu-lawal.netlify.app/)
+* ✉️  Email: [email me](mailto:lawalmuktair@gmail.com)
 * 💼  **Open to work** - Actively seeking full-time opportunities
 * 🎯  Specialized in database design, optimization, and backend architecture
 * 🤝  Available for collaborating on innovative full-stack projects and open-source contributions
