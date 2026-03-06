@@ -63,13 +63,13 @@ Currently open to full-time opportunities where I can build impactful products a
 
 ## 🚀 Featured Projects
 
-### 🛒 [shopNow](https://github.com/Mutairu-Lawal/shopNow) — E-commerce Platform
+### 🛒 [shopNow](https://github.com/Mutairu-Lawal/kc_Task7) — E-commerce Platform
 A full-featured e-commerce platform with product catalog, cart, and secure checkout.
 
-### 💰 [PiggyVest Clone](https://github.com/Mutairu-Lawal/piggyy-vest-cloned-app) — Fintech Web App
+### 💰 [PiggyVest Clone](https://github.com/Mutairu-Lawal/piggyvest-clone) — Fintech Web App
 A savings and investment platform inspired by PiggyVest.
 
-### 🧠 [QuizWhiz](https://github.com/Mutairu-Lawal/quizzwhizz) — Interactive Quiz App
+### 🧠 [QuizWhiz](https://github.com/Mutairu-Lawal/quizWhiz) — Interactive Quiz App
 A dynamic quiz platform with timed assessments and real-time score calculation.
 
 ---
